@@ -84,10 +84,17 @@ body{
   height: 15px;
   
 }
-
-
-
-
+.contact-right img{
+	width: 500px;
+}
+@media (max-width:800px)  {
+	.contact-inputs{
+		width: 80vw;
+}
+.contact-right{
+	display: none;
+	
+}
 
 
 
