@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+.p{
+   font-weight: 600;
+  color: #ffffff;
+  font-size: 60px;
+	
+}
+
+
 body{
 	font-family: 'outfit';
 	
@@ -30,9 +38,9 @@ body{
 
 .contact-left-title h2{
   
-  font-weight: 600;
+  font-weight: 550;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 50px;
   margin-bottom: 7px;
 }
 
